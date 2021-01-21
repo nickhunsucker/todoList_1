@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#myid {
+  color: blueviolet;
+  border: red;
+  border-style: solid;
+  border-radius: 35px;
+  float: center;
+}
+/*# sourceMappingURL=index.css.map */
